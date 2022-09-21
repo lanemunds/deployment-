@@ -9,6 +9,8 @@ h1 {
     color: aliceblue;
     text-align-last: center;
   font-size: x-large;
+  position: flex;
+ 
 }
 
 .center {
@@ -34,4 +36,7 @@ h2 {
 }
 #buyingGuide {
 background-color: aliceblue;
+position: flex;
+flex-direction: row-reverse;
+align-content: center;
 }
