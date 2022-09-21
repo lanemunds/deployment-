@@ -1,5 +1,10 @@
 img  {
     border-radius: 80%;
-    width: 10px;
+    width: 100px;
+    height: 100px;
 
+}
+h1 {
+    background-color: blue;
+    height: 10px;
 }
