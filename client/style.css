@@ -40,3 +40,7 @@ position: flex;
 flex-direction: row-reverse;
 align-content: center;
 }
+#contact{
+    position: fixed;
+    right: 60px;
+}
