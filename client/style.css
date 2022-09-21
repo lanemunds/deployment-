@@ -7,11 +7,24 @@ img  {
 h1 {
     background-color: blue;
     color: aliceblue;
-  
+    text-align-last: center;
+  font-size: x-large;
 }
 
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
+  }
+  #buy {
+    color: yellow;
+    background-color: black;
+    position: fixed;
+    right: 100px;
+
+  }
+  p{
+    font-size: medium;
+    background-color: aliceblue;
+    color: red;
   }
