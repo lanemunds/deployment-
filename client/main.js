@@ -6,11 +6,13 @@ console.log('hello World')
 const contactUs = (event)=>{
     event.preventDefault()
     alert("Please don't contact us")
-    rollbar.log();('hello')
-const buyNow = (event)=>{
+    rollbar.log('Hello');
+}
+    
+    const buyNow = (event)=>{
     event.preventDefault()
     alert("Please don't contact us")
-    rollbar.log();('hello')
+    rollbar.log('hello')
 }
 
 const contact = document.querySelector('#contact')
